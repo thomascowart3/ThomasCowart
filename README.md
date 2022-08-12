@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @thomascowart
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Google Data Analytics Professional
-- 💞️ I’m looking to collaborate on Learning Projects
+- 🌱 I’m currently taking the Google Data Analytics Professional course
 - 📫 How to reach me: thomascowart3@gmail.com
 
 <!---
