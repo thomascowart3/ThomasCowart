@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thomascowart
+- 👋 Hey, I’m @thomascowart
 - 👀 I’m interested in all things DATA!
 - 📫 Reach me at: thomascowart3@gmail.com
 
