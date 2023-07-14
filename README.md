@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thomascowart
 - 👀 I’m interested in all things DATA!
-- 📫 Reach me at: thomascowart3@gmail.com
+- 📫 Reach me at: thomascowart3@thomascowart.net
 
 <!---
 thomascowart/thomascowart is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
