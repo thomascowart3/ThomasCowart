@@ -1,4 +1,4 @@
-Motivated Navy veteran with 4 years of experience in IT. Proficient in collecting, cleaning, analyzing, and visualizing data with a variety of tools, as well as conducting professional research and presenting key findings to a diverse range of audiences. Eager to apply my Business acumen and skill sets in Data, IT, analytical problem solving, and storytelling towards driving positive change within organizations. Demonstrating a lifelong commitment to continuous academic, professional, intrapersonal, and interpersonal development.
+Driven Business Analytics & Information Systems student and Navy veteran bringing 4 years of robust IT and data management experience. Adept at transforming complex data into compelling narratives and strategic insights for key decision-making processes. Actively seeking a Business/Data Analyst internship to further leverage my skills. 
 
 <!---
 thomascowart/thomascowart is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
