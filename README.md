@@ -1,4 +1,4 @@
-Driven Business Analytics student & Navy veteran bringing 4 years of robust analytics & IT experience. Adept at transforming complex data into compelling narratives and strategic insights for key decision-making processes. Interested in global business operations & supply chain analytics.
+Determined Business Analytics & Information Systems student & Navy veteran IT with 4 years of comprehensive analytics & IT experience. Proficient in sourcing, transforming, analyzing, & visualizing complex data from varied sources. Skilled in creating & delivering insightful & compelling presentations that impact data-driven decision-making in dynamic organizations.
 
 <!---
 thomascowart/thomascowart is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
