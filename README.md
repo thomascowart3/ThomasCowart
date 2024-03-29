@@ -1,4 +1,4 @@
-Determined Business Analytics student & Navy veteran IT bringing 4 years of robust analytics & IT experience. Adept at querying databases, creating KPI dashboards, & transforming complex data into compelling narratives & strategic insights for key business decision-making processes.
+Determined Business Analytics student & Navy veteran bringing 4 years of robust Analytics & Information Technology experience. Adept at querying databases, creating KPI dashboards, & transforming complex data into compelling narratives & strategic insights for key business decision-making processes.
 
 
 <!---
