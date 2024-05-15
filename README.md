@@ -1,4 +1,6 @@
-Determined Business Analytics student & Navy veteran bringing 4 years of robust Analytics & Information Technology experience. Adept at querying databases, creating KPI dashboards, & transforming complex data into compelling narratives & strategic insights for key business decision-making processes.
+As a determined student of Business Analytics and Information Systems and a Navy veteran, I bring more than four years of robust analytics and information technology experience. I'm an excellent communicator, adept at discussing complex technical concepts with people of diverse backgrounds and varying levels of expertise. Additionally, I'm an extroverted data enthusiast, highly interested in anything related to data science or at the forefront of business and technology, with a strong passion for sharing insights with others.
+
+In my free time, I enjoy reading non-fiction books and researching the latest trends in business, technology, and science while drinking coffee. I also enjoy watching football games and soccer matches, hiking, camping, traveling abroad, playing guitar, playing video games, and cooking a variety of foods!
 
 
 <!---
