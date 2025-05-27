@@ -1,9 +1,4 @@
-As an extroverted data and AI strategist and skilled communicator, I excel at connecting people, data, technology, and business. With a talent for translating complex technical concepts into clear, actionable insights, I empower diverse audiences to make informed decisions.
-
-In my free time, I enjoy drinking coffee while researching the latest trends in tech and business as well as reading non-fiction books related to economics, social psychology, and philosophy. I also enjoy watching football games and soccer matches, backpacking, traveling abroad, playing guitar, playing video games, solving puzzle cubes, tasting wine, and cooking a wide variety of cuisines!
-
-MBTI: ENTP (Extroverted, Intuitive, Thinking, and Perceiving).
-Top 5 CliftonStrengths: Activator, Ideation, Futuristic, Strategic, and Command.
+As an extroverted data and AI strategist and skilled communicator, I excel at connecting people, data, AI, and business. With a talent for translating complex technical information into clear, actionable insights, I empower diverse audiences to make informed decisions.
 
 <!---
 thomascowart/thomascowart is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
